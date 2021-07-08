@@ -15,7 +15,7 @@
 1. [Heroku](./heroku-resources.md)
 1. [Networking/REST/HTTP](./networking-resources.md)
 1. [Regex](./regex-resources.md)
-1. [Browser Editors](./browser-editor-resources.md)
+1. [Browser Code Editors](./browser-editor-resources.md)
 1. [CanIUse.com (EXTERNAL LINK)](https://caniuse.com/) - Browser Compatibility Check
 1. [DevDocs (EXTERNAL LINK)](https://devdocs.io/) - All the documentation in one place!
 1. [Open Source Licenses (EXTERNAL LINK)](https://choosealicense.com/) - Quick Open Source Licensing to protect your code
