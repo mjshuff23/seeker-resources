@@ -5,7 +5,7 @@
 1. [Accessibility](./accessibility-resources.md)
 1. [CSS3](./css-resources.md)
 1. [JavaScript](./javascript-resources.md)
-1. [React](./react-resources.md)
+1. [React/Redux](./react-redux-resources.md)
 1. [Databases](./database-resources.md)
 1. [Docker](./docker-resources.md)
 1. [Interviewing](./interviewing-resources.md)

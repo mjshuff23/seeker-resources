@@ -1,4 +1,4 @@
-# React Resources
+# React/Redux Resources
 
 [<- Back](./README.md)
 
