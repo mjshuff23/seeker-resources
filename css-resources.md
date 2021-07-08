@@ -1,5 +1,7 @@
 # CSS3 Resources
 
+[<- Back](./README.md)
+
 Resources in bold are personal favorites
 
 ## Table of Contents

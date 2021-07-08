@@ -1,5 +1,16 @@
 # JavaScript Resources
 
+[<- Back](./README.md)
+
+## Table of Contents
+
+1. [Online Books](#online-books)
+1. [Tutorials](#tutorials)
+1. [Courses and Programs](#courses-and-programs)
+1. [Documentation](#documentation)
+1. [Testing](#testing)
+1. [Miscellaneous](#miscellaneous)
+
 ## Online Books
 
 - [**Eloquent JavaScript**](https://eloquentjavascript.net/)
