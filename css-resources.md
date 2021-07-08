@@ -17,14 +17,15 @@ Resources in bold are personal favorites
 ## General
 
 - [**CSS-Tricks**](https://css-tricks.com/)
+- [**AutoPrefixer**](https://css-tricks.com/autoprefixer/) - Tool to auto generate vendor prefixes for you
 - [SpeciFISHity](http://www.specifishity.com/) - Tool to understand specificity
 
 ## Flexbox
 
+- [**CSS-Tricks - A Complete Guide to Flexbox**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [**Flexbox Froggy**](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Flexbox Zombies (currently free)](https://flexboxzombies.com/)
-- [**CSS-Tricks - A Complete Guide to Flexbox**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Grid
 
@@ -43,8 +44,8 @@ Resources in bold are personal favorites
 
 ## Color Schemes
 
-- [Paletton - Color Scheme Designer](https://paletton.com/)
 - [**Coolors - Palette Generator**](https://coolors.co/generate)
+- [Paletton - Color Scheme Designer](https://paletton.com/)
 - [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)
 
 ## Miscellaneous
