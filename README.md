@@ -19,5 +19,6 @@
 1. Browser Compatibility Check
    1. [CanIUse.com](https://caniuse.com/)
 1. [Browser Editors](./browser-editor-resources.md)
+1. [DevDocs](https://devdocs.io/) - All the documentation in one place!
 1. [Open Source Licenses](https://choosealicense.com/)
 1. [WebPageTest](https://www.webpagetest.org/) - Test site performance, security, etc...
