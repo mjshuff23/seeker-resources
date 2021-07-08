@@ -18,5 +18,5 @@
 1. [Browser Editors](./browser-editor-resources.md)
 1. [CanIUse.com (EXTERNAL LINK)](https://caniuse.com/) - Browser Compatibility Check
 1. [DevDocs (EXTERNAL LINK)](https://devdocs.io/) - All the documentation in one place!
-1. [Open Source Licenses (EXTERNAL LINK)](https://choosealicense.com/)
+1. [Open Source Licenses (EXTERNAL LINK)](https://choosealicense.com/) - Quick Open Source Licensing to protect your code
 1. [WebPageTest (EXTERNAL LINK)](https://www.webpagetest.org/) - Test site performance, security, etc...
