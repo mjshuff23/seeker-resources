@@ -11,5 +11,7 @@
 1. [Data Structures and Algorithms](./dsa-resources.md)
 1. [Amazon Web Services (Homepage)](https://aws.amazon.com/)
    1. [Cloud Practitioner Essentials (Free Course!)](https://www.aws.training/Details/eLearning?id=60697)
+1. [Git/GitHub](./git-resources.md)
 1. Browser Compatibility Check
    1. [CanIUse.com](https://caniuse.com/)
+1. [Browser Editors](./browser-editor-resources.md)
