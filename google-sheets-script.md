@@ -6,16 +6,17 @@
 
    ```javascript
     function myFunction() {
-        const d = new Date();
-        const hours = d.getHours();
-        const currentTime = d.toLocaleDateString();
-        const counter = SpreadsheetApp.getActiveSheet().getRange(‘B1’).getValues();
+        // NOTE: Google Sheets does not support let or const currently as far as I know
+        var d = new Date();
+        var hours = d.getHours();
+        var currentTime = d.toLocaleDateString();
+        var counter = SpreadsheetApp.getActiveSheet().getRange(‘B1’).getValues();
 
         if (hours >= 6 && hours <= 18) {
             // If you want your app to run only on weekdays add the next conditional:
             if (d.getDay() > 5 || d.getDay() === 0) return;
             // Duplicate this next line for all projects
-            const response = UrlFetchApp.fetch(“your_heroku_app_address");
+            var response = UrlFetchApp.fetch(“your_heroku_app_address");
             SpreadsheetApp.getActiveSheet().getRange(‘A’ + counter).setValue(‘Visted at ‘ + currentTime + “ “ + hours + “h”);
             SpreadsheetApp.getActiveSheet().getRange(‘B1’).setValue(Number(counter) + 1);
         }
