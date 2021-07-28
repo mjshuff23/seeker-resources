@@ -1,5 +1,7 @@
 # Google Sheets Script to Keep Your Dyno Awake
 
+[<- Back](./heroku-resources.md)
+
 1. Create a new Google Sheet document, go to Tools -> Script Editor
 1. Enter 1 at cell B1, which will work as a counter.
 1. Enter the following code:
