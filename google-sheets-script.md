@@ -24,3 +24,6 @@
         }
     }
    ```
+
+1. Save your scripts. And inside the Script Editor, go to Edit -> current project’s trigger.
+1. Add a new trigger, select Time-driven events, minutes timer, and select the time interval you want this script to visit your heroku app. And save.
