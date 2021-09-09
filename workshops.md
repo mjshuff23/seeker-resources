@@ -12,3 +12,6 @@
 ## React Class Components
 
 - [React Class Components Workshop](https://us02web.zoom.us/rec/share/B4IVpKb1s5rDsaO_hOY692XDUgKbJcaGl7zQYLc0udHlb1M-vLn5KVkiiVzTiiou._LzV4SyF-2_AQuRC) - Pass: `d@.x4x33`
+
+## TypeScript
+- [Workshop 1](https://www.google.com/url?q=https://us02web.zoom.us/rec/share/XOdfyeeA1eRKbADIALLcBA9EcaUJDcE0PgceOUsDzjN2ht-5bCXJ8Ks1L4X8UnMi.2_dw_mHCObwQ7ZPB&sa=D&source=calendar&ust=1631577718805120&usg=AOvVaw1BNsP8JqHrt5c5fNBXJXbq) - Pass: `u?r^96UW`
